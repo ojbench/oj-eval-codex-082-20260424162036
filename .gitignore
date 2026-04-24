@@ -1,0 +1,10 @@
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+code
+
+# Local env and tokens should not be committed
+.env
+.acmoj_token
+
